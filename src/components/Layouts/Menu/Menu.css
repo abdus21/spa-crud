@@ -1,0 +1,21 @@
+
+.menu-section{
+    background-color: #fff;
+}
+.menu-section .logo img{
+    width: 250px;
+    height: 70px;
+}
+
+.menu ul{
+    text-align: right;
+    margin-top: 20px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: block;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}

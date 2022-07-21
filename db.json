@@ -1,0 +1,38 @@
+{
+  "deves": [
+    {
+      "name": "abdus samad",
+      "username": "samad",
+      "email": "samad@gmail.com",
+      "cell": "0194345657",
+      "photo": "https://media.istockphoto.com/photos/smiling-mixed-race-mature-man-on-grey-background-picture-id1319763895?b=1&k=20&m=1319763895&s=170667a&w=0&h=jhqKyg62cQVZ-NjDQjpcenCdHDrprkN4caRjk4K76E8=",
+      "skill": "java",
+      "fb": "#",
+      "id": 1,
+      "status": false
+    },
+    {
+      "name": "abdus samad",
+      "username": "samad",
+      "email": "samad@gmail.com",
+      "cell": "0194345657",
+      "photo": "https://media.istockphoto.com/photos/smiling-mixed-race-mature-man-on-grey-background-picture-id1319763895?b=1&k=20&m=1319763895&s=170667a&w=0&h=jhqKyg62cQVZ-NjDQjpcenCdHDrprkN4caRjk4K76E8=",
+      "skill": "java",
+      "fb": "#",
+      "id": 3,
+      "status": true
+    },
+    {
+      "name": "tanvir",
+      "username": "tanv",
+      "email": "tanvir@gmail.com",
+      "cell": "01824556",
+      "photo": "https://img.freepik.com/free-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg?w=2000",
+      "skill": "PHP",
+      "fb": "",
+      "stasus": false,
+      "id": 4,
+      "status": true
+    }
+  ]
+}
